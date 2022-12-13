@@ -6,7 +6,7 @@
 - 🥅 I am constantly learning new things
 ### Connect with me:
 
-[<img align="left" alt="ArturFik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ArturFik | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+<img align="left" alt="ArturFik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="ArturFik | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 
 <br />

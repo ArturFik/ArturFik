@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Artur
 
-## I'm a FrontEnd Developer
+## I'm a FrontEnd React.js Developer
 - 💪 I like to write code
 - 🎉 I love to paint and play the guitar
 - 🥅 I am constantly learning new things

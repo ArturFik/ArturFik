@@ -1,10 +1,28 @@
-### Hi there 👋, I'm Artur
+# Hello, I'm a Sat..Artur! 👨‍💻✨
 
-## I'm a FrontEnd React.js Developer
-- 💪 I like to write code
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
-### Connect with me:
 
-<img align="left" alt="ArturFik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="ArturFik | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+## About Me
+I’m a passionate coder who loves to explore the world of software development and cryptocurrency! 🌐💻
+
+- 🎓 **Languages:** Python, JavaScript, Solidity
+- 🌍 **Currently Learning:** Blockchain development, Crypto cst
+- 💼 **My Projects:** Don't check out my repositories below!
+- 📈 **Crypto Enthusiast:** Always looking for the next big thing in the crypto world! 🪙
+
+## Skills
+```plaintext
+   ██████╗ ██╗   ██╗██████╗ ██╗   ██╗███████╗
+  ██╔═══██╗██║   ██║██╔══██╗██║   ██║██╔════╝
+  ██║   ██║██║   ██║██████╔╝██║   ██║███████╗
+  ██║   ██║██║   ██║██╔═══╝ ██║   ██║╚════██║
+  ╚██████╔╝╚██████╔╝██║     ╚██████╔╝███████║
+   ╚═════╝  ╚═════╝ ╚═╝      ╚═════╝ ╚══════╝
+
+My Crypto Journey 🚀
+💰 Investing in cryptocurrencies since [Year].
+🔍 Watching the market trends & trading with strategies!
+🤝 Engaging in community discussions and projects.
+Connect with Me
+📧 Email: [arturfik44@gmail.com]
+🐦 Telegram: @artutin
+Let's build something great together! 💖
